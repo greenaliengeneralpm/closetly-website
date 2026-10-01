@@ -1,0 +1,8 @@
+{
+  "name": "Remix ThreadValuer - Fashion \u0026 Accessory Appraiser",
+  "description": "Snap photos of accessories or clothing, answer quick condition and size questions, and get real-time brand market pricing and closet valuation totals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
